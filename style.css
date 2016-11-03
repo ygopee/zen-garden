@@ -1,5 +1,30 @@
-/*
+h1{
+  color:red
+}
 
-Add some CSS here ...
+a{
+  color:purple
+}
 
-*/
+body{
+background-color : yellow
+}
+h2{
+text-align:center
+}
+
+span class="benefits"{
+  text-align: right
+}
+
+
+
+
+
+header{
+  background-color: black
+}
+
+body{
+  color:white
+}
